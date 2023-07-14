@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(241, 245, 245);
+}
+
+.fa{
+    color: rgb(17, 162, 219);
+}
+
+.box-part{
+    background-color: rgb(236, 240, 243);
+    padding: 40px 5px;
+    margin: 30px ;
+}
+.icon-color{
+    color: palevioletred;
+}
+.git-color{
+    color: black;
+}
+.snap-color{
+    color: yellow;
+}
+
+.you-color{
+    color: red;
+}
+
+
+span{
+    font-size: 12px;
+
+}
+a{
+    border-bottom: 1px solid blue;
+
+}
+
+.box{
+    padding: 60px 0px;
+}
